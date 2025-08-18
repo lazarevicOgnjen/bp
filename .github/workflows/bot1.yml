@@ -55,11 +55,11 @@ jobs:
         uses: lazarevicOgnjen/git-auto-commit-action@v6
         with:
           commit_message: Update novosti1.md
-        id: auto-commit-action
+        id: auto-commit-action1
 
       # Step 8: Take screenshot if changes detected
       - name: Take photo
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: steps.auto-commit-action1.outputs.changes_detected == 'true'
         env:
           MAIL: ${{ secrets.MAIL }}
           PASSWORD: ${{ secrets.PASSWORD }}
@@ -67,7 +67,7 @@ jobs:
 
       # Step 9: Notify via Discord bot
       - name: Discord bot notification
-        if: steps.auto-commit-action.outputs.changes_detected == 'true'
+        if: steps.auto-commit-action1.outputs.changes_detected == 'true'
         env:
           WEBHOOK_MAIN1: ${{ secrets.WEBHOOK_MAIN1 }}
         run: python discord1.py
