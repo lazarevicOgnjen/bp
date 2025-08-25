@@ -1,6 +1,16 @@
 Advanced search...
 Forums
-Search results: 2
+Search results: 3
+News forum -> Način polaganja ispita u školskoj 2024/25 -> Odgovor: Način polaganja ispita u školskoj 2024/25
+by Leonid Stoimenov - Monday, 25 August 2025, 1:38 PM
+Pošto je bilo dosta pitanja mailom, da vam napišem dodatna objašnjenja u vezi polaganja ispita:
+- U ispitnom roku možete da polažete deo ispita (neki od kolokvijuma) ili ceo ispit.
+- vodite računa o uslovima (imate ih u prethodnoj poruci), napr.  ne možete da polažete P2, ako niste položili P1. 
+- ne morate da prijavite ispit preko SIPa dok ne dođete u fazu da upišete ocenu za ispit koji ste položili (tada morate da prijavite ispit)
+- zbog toga, za svaki ispitni rok postavićemo upitnik na CS-u za prijavu - navodite indeks, ime i koji deo polažete, kako bi imali evidenciju zbog sala i dežurnih
+Permalink
+Show parent
+See this post in context
 News forum -> Način polaganja ispita u školskoj 2024/25
 by Leonid Stoimenov - Friday, 13 June 2025, 12:47 PM
 Zbog izmenjenih okolnosti realizacije nastave, za školsku 2024/25 godinu izvršene su korekcije načina polaganja ispita.
