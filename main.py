@@ -54,17 +54,6 @@ try:
     with open("novosti.md", "w") as novosti_file:
         novosti_file.write(novosti_markdown)
 
-    # Step 8: Navigate to the main page
-    page_to_scrape.get("https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=4")
-    time.sleep(3)
-
-    # Step 9: Extract data and save it to a markdown file
-    responseT1 = page_to_scrape.find_element(By.XPATH, '//*[@id="region-main"]')
-    novosti1_markdown = responseT1.text
-
-    with open("novosti1.md", "w") as novosti1_file:
-        novosti1_file.write(novosti1_markdown)
-
 finally:
     # Close the browser
     page_to_scrape.quit()
