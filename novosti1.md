@@ -4,7 +4,7 @@ Topic outline
 OAS, Modul: Računarstvo i informatika (RI)
 Šifra: 3OER3O02
 Semestar: III
-Nedeljni fond časova: 2+2+1
+Nedeljni fond časova: 2+2+1z
 Status: Obavezni predmet
 ESPB: 6
 Nastavnici i saradnici:
