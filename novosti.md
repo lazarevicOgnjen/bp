@@ -1,6 +1,13 @@
 Advanced search...
 Forums
-Search results: 3
+Search results: 4
+News forum -> Način polaganja ispita u školskoj 2024/25 -> Odgovor: Način polaganja ispita u školskoj 2024/25
+by Leonid Stoimenov - Monday, 25 August 2025, 3:04 PM
+Dodatno, vezano za način polaganja P2 - sve delove polažete na papiru, pa i P2.
+U ispitnom roku možete da polažete jedan, dva, tri dela ili ceo ispit. Naravno, vodite računa o uslovima.
+Permalink
+Show parent
+See this post in context
 News forum -> Način polaganja ispita u školskoj 2024/25 -> Odgovor: Način polaganja ispita u školskoj 2024/25
 by Leonid Stoimenov - Monday, 25 August 2025, 1:38 PM
 Pošto je bilo dosta pitanja mailom, da vam napišem dodatna objašnjenja u vezi polaganja ispita:

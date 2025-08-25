@@ -132,6 +132,11 @@ Smerovi US, T i E - rezultati aprilskog ispitnog roka 2024
 File
 Smerovi US, T i E - rezultati januarskog ispitnog roka 2024
 File
+Prijava za polaganje - ispitni rok JANUAR (29.8.25)
+Questionnaire
+Preko ovog upitnika prijavljujete se za polaganje nekog dela ispita (kolokvijuma) ili ispita u celini. 
+Za upis ocene neophodna je zvanična prijava preko SIPa.
+
 01. oktobar - 06. oktobar
 Računske vežbe:
 1. ER dijagrami
