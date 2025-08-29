@@ -1,6 +1,15 @@
 Advanced search...
 Forums
-Search results: 4
+Search results: 5
+News forum -> Raspored studenata po salama - januarski ispitni rok (2024/2025)
+by Milena Frtunić Gligorijević - Friday, 29 August 2025, 8:52 AM
+Poštovane koleginice i kolege,
+Raspored studenata po salama za polaganje ispita u januarskom ispitnom roku, 29.08.2025. godine, je sledeći:
+sala A1: 17292<broj indeksa<19901
+sala A2: 19910<broj indeksa<19694
+sala K1: 19693<broj indeksa<20027
+Permalink
+See this post in context
 News forum -> Način polaganja ispita u školskoj 2024/25 -> Odgovor: Način polaganja ispita u školskoj 2024/25
 by Leonid Stoimenov - Monday, 25 August 2025, 3:04 PM
 Dodatno, vezano za način polaganja P2 - sve delove polažete na papiru, pa i P2.
