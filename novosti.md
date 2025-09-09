@@ -1,6 +1,16 @@
 Advanced search...
 Forums
-Search results: 5
+Search results: 6
+News forum -> Резултати испита - ЈАНУАР 2025
+by Leonid Stoimenov - Tuesday, 9 September 2025, 1:21 PM
+У прилогу се налазе резултати испита за испитни рок ЈАНУАР 2025. 
+Део испита сте положили ако имате више од 50% поена. Положени део испита важи и у наредним роковима. 
+У току дана објавићу укупан број поена и предлог оцена. 
+Упис оцена је у четвртак, 11.9.2025. у 12:00 у просторији М2-1. 
+Радове можете да погледате у истом термину
+BP JAN 25.pdf
+Permalink
+See this post in context
 News forum -> Raspored studenata po salama - januarski ispitni rok (2024/2025)
 by Milena Frtunić Gligorijević - Friday, 29 August 2025, 8:52 AM
 Poštovane koleginice i kolege,
