@@ -1,6 +1,15 @@
 Advanced search...
 Forums
-Search results: 7
+Search results: 8
+News forum -> Raspored studenata po salama - junski ispitni rok (2024/2025)
+by Milena Frtunić Gligorijević - Wednesday, 10 September 2025, 2:18 PM
+Poštovane koleginice i kolege,
+Raspored studenata po salama za polaganje ispita u junskom ispitnom roku, 11.09.2025. godine, je sledeći:
+sala A3: 15397<broj indeksa<19701
+sala A4: 19701<broj indeksa<20027
+
+Permalink
+See this post in context
 News forum -> Резултати испита - ЈАНУАР 2025 -> Резултати испита и предлог оцена - ЈАНУАР 2025
 by Leonid Stoimenov - Tuesday, 9 September 2025, 4:12 PM
 У прилогу су резултати испита након испитног рока ЈАНУАР 2025.
